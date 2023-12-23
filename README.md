@@ -1,0 +1,2 @@
+## Overview
+**Sha256ProofOfWorkDemo** is a Java program that demonstrates a basic implementation of a proof-of-work algorithm using the SHA-256 cryptographic hash function. The program continuously calculates SHA-256 hashes by varying a nonce and aims to find a hash with a specified number of leading zeros.
