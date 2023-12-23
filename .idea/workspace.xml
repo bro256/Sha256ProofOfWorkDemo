@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae1c6af1-ba6d-434b-ba60-bbd06c6adfe8" name="Changes" comment="Overview added">
+    <list default="true" id="ae1c6af1-ba6d-434b-ba60-bbd06c6adfe8" name="Changes" comment="How It Works added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,12 +68,20 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1703328805644</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="How It Works added">
+      <option name="closed" value="true" />
+      <created>1703329417093</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1703329417093</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Simple working program" />
     <MESSAGE value="Overview added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Overview added" />
+    <MESSAGE value="How It Works added" />
+    <option name="LAST_COMMIT_MESSAGE" value="How It Works added" />
   </component>
 </project>
