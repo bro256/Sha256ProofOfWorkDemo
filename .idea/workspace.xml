@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae1c6af1-ba6d-434b-ba60-bbd06c6adfe8" name="Changes" comment="Simple working program" />
+    <list default="true" id="ae1c6af1-ba6d-434b-ba60-bbd06c6adfe8" name="Changes" comment="Overview added">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +14,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
@@ -55,11 +60,19 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1703328143948</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Overview added">
+      <option name="closed" value="true" />
+      <created>1703328805644</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1703328805644</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Simple working program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Simple working program" />
+    <MESSAGE value="Overview added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Overview added" />
   </component>
 </project>
