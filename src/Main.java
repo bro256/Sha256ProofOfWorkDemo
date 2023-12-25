@@ -27,6 +27,7 @@ public class Main {
                     System.out.println("Hash bits: " + bytesToBinary(hash));
                     System.out.println("Leading Zeros: " + numZeroes);
                     System.out.println("Iterations: " + counter);
+                    System.out.println("\nSearching...");
                 }
 
                 nonce++;
