@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae1c6af1-ba6d-434b-ba60-bbd06c6adfe8" name="Changes" comment="Usage, Disclaimer, Dependencies added">
+    <list default="true" id="ae1c6af1-ba6d-434b-ba60-bbd06c6adfe8" name="Changes" comment="Searching println added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -28,17 +28,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/X1/IdeaProjects/Sha256ProofOfWorkDemo&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/X1/IdeaProjects/Sha256ProofOfWorkDemo"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -83,7 +83,14 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1703330166174</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="Searching println added">
+      <option name="closed" value="true" />
+      <created>1703528688040</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1703528688040</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -91,6 +98,7 @@
     <MESSAGE value="Overview added" />
     <MESSAGE value="How It Works added" />
     <MESSAGE value="Usage, Disclaimer, Dependencies added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Usage, Disclaimer, Dependencies added" />
+    <MESSAGE value="Searching println added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Searching println added" />
   </component>
 </project>

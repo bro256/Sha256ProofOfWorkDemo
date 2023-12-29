@@ -8,6 +8,7 @@ public class Main {
         int numZeroes = 0; // Number of leading zeros required
         int counter = 0;
         MessageDigest md;
+        long startTime = System.currentTimeMillis();
 
         try {
             md = MessageDigest.getInstance("SHA-256");
@@ -27,6 +28,7 @@ public class Main {
                     System.out.println("Hash bits: " + bytesToBinary(hash));
                     System.out.println("Leading Zeros: " + numZeroes);
                     System.out.println("Iterations: " + counter);
+                    System.out.println("Elapsed Time: " + getElapsedTime(startTime) + " milliseconds");
                     System.out.println("\nSearching...");
                 }
 
@@ -37,6 +39,7 @@ public class Main {
             e.printStackTrace();
         }
     }
+
 
     private static int countLeadingZeros(byte[] hash) {
         int count = 0;
@@ -55,6 +58,7 @@ public class Main {
         return count;
     }
 
+
     private static String bytesToHex(byte[] bytes) {
         StringBuilder hexString = new StringBuilder();
         for (byte b : bytes) {
@@ -68,7 +72,6 @@ public class Main {
     }
 
 
-
     private static String bytesToBinary(byte[] bytes) {
         StringBuilder binaryString = new StringBuilder();
         for (byte b : bytes) {
@@ -77,5 +80,10 @@ public class Main {
             }
         }
         return binaryString.toString();
+    }
+
+
+    private static long getElapsedTime(long startTime) {
+        return System.currentTimeMillis() - startTime;
     }
 }
